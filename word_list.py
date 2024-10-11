@@ -1,4 +1,5 @@
-vardi = {
+#vardi no kuriem viens tiks izvēlēts un tiks izmantots kā mināmais vārds
+vardi = (
 'about', 
 'account', 
 'acid', 
@@ -852,4 +853,4 @@ vardi = {
 'bernhard', 
 'breytenbach', 
 'android'
-}
+)
